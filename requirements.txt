@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+chromadb
+pypdf
+python-docx
+sentence-transformers
+python-dotenv
+tiktoken
+unstructured
